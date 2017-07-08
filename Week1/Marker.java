@@ -3,19 +3,21 @@
  * version 1
  */
 
-
+// Classes are types of objects. Objects are defined by their class. 
 public class Marker{ // this line tells the computer hey! we are making a public class called HelloWorld
-
-	String color;
-	int size;
-	int shape;
-
+	
+	// Variables are like attributes for our marker, these can change for each marker we make!
+	String color; // variable for color
+	int size; // variable for size
+	String shape; // variable for shape
+	
+	// Methods are a set of instuctions that allow actions for our markers
 	void write (){
 		//insert code to write
 	}
 
 	void draw (){
-		//insert code to write
+		//insert code to draw
 	}
     
 }
