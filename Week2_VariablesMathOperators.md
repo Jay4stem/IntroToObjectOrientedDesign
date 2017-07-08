@@ -15,14 +15,22 @@
     * short - values from **-32,768** to **32,767**
     * int - values from **-2,147,483,648** to **2,147,483,648**
     * long - really **LARGE** values
-    ![Integer Examples](ints.png)
+![Integer Examples](ints.png)
+
   * **decimals** - is referred to a **"floating"** or a positive or negative number with a **decimal** point.
     * **float** - is 32 bits
     * **double** - is 64 bits
-    ![Decimal Examples](dec.png)
+![Decimal Examples](dec.png)
+
   * **Boolean** - **true** or **false** values
-    ![Boolean Examples](bool.png)
+![Boolean Examples](bool.png)
+
   * **char** - single **letters** and other keyboard **symbols**
     * **ALWAYS** uses single quotes **(')**
-    ![Char Examples](char.png)
+![Char Examples](char.png)
+
+### Reference/Object Data Types
+* **string** - **text** values
+ * **ALWAYS** starts with a **CAPITOL** "S".
+ * **ALWAYS** uses **DOUBLE** quotes **(")**
 
