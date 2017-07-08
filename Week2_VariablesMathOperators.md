@@ -42,25 +42,25 @@
  
 ## Math & Operators
 ### **Arithmetic Operators** - Used operators for basic math
-  * **+** Addition 
-  * **-** Subtraction 
-  * **/** Division 
-  * ** * ** Multipulcation
-  * **=** Equals
-  * **%** Remainder from Division
-  * **++** Increment by 1
-  * **--** Decrease by 1  
+  * **+** : Addition 
+  * **-** : Subtraction 
+  * **/** : Division 
+  * ** * ** : Multipulcation
+  * **=** : Equals
+  * **%** : Remainder from Division
+  * **++** : Increment by 1
+  * **--** : Decrease by 1  
 ### Relational Operators - Used to compare two values
-  * **<** Less Than
-  * **>** Greater Than
-  * **!+** Not Equal To
-  * **==** Equal To
-  * **<=** Less Than or Equal To
-  * **>=** Greater Than or Equal To
+  * **<** : Less Than
+  * **>** : Greater Than
+  * **!=** : Not Equal To
+  * **==** : Equal To
+  * **<=** : Less Than or Equal To
+  * **>=** : Greater Than or Equal To
 ### Logical Operators - Used to check conditions
-  * **&&** And
-  * **||** Or
-  * **!** Not
+  * **&&** : And
+  * **||** : Or
+  * **!** : Not
   
    
    
