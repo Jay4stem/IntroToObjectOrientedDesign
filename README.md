@@ -22,7 +22,6 @@
 ### July 15:  Math, Operators & Conditionals
 - Review Variables
 - Addition, Subtraction, Multiplication, Division, Remainder, Increment & Decreasing by 1
-- Arrays
 - If Statements
 - Less Than, More Than & Equal To
 - And & Or
