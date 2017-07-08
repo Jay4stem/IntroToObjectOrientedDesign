@@ -21,12 +21,10 @@
 
 ### July 15:  Math, Operators & Conditionals
 - Review Variables
-- Addition, Subtraction, Multiplication, Division, Remainder, Increment & Decreasing by 1
-- If Statements
-- Less Than, More Than & Equal To
-- And & Or
-- Vocabulary:
-- Keywords:
+- Operators
+- Conditionals
+- Vocabulary: Variable, Primitive Data Type, Reference/Object Data Type, Integer, Floating Number, Boolean, Strongly Typed Language, Loosely Typed Language, Scope, Arithmetic Operators, Relational Operators, Logical Operators
+- Keywords: byte, short, int, long, float, double, Boolean, char, String, +, -, * , /, =, %, ++, --, >, <, !=, ==, <=, >=, &&, ||,  !,   
 
 ### July 22:  Control Flow Statements 
 - Switch
