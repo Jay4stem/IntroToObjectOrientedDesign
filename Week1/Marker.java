@@ -3,7 +3,8 @@
  * version 1
  */
 
-// Classes are types of objects. Objects are defined by their class. 
+// Classes are a collection of attributes and methods. It is a way of organizing code. 
+// Think of Classes as types of objects. Objects are defined by their class. 
 public class Marker{ // this line tells the computer hey! we are making a public class called HelloWorld
 	
 	// Variables are like attributes for our marker, these can change for each marker we make!
