@@ -24,17 +24,17 @@
 - Operators
 - Conditionals
 - Vocabulary: Variable, Primitive Data Type, Reference/Object Data Type, Integer, Floating Number, Boolean, Strongly Typed Language, Loosely Typed Language, Scope, Arithmetic Operators, Relational Operators, Logical Operators
-- Keywords: byte, short, int, long, float, double, Boolean, char, String, +, -, * , /, =, %, ++, --, >, <, !=, ==, <=, >=, &&, ||,  !,   
+- Keywords: byte, short, int, long, float, double, Boolean, char, String, +, -, * , /, =, %, ++, --, >, <, !=, ==, <=, >=, &&, ||,  !   
 
 ### July 22:  Control Flow Statements 
+- Review Conditionals
 - Switch
 - For
-- While
 - Vocabulary:
 - Keywords:
 
 ### July 29:  Control Flow & Methods
-- Do While
+- While/Do While
 - Parameters
 - Access Modifiers
 - Constructors
