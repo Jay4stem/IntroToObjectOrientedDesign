@@ -29,19 +29,19 @@
 [Char Examples]: char.png
 
 ### Reference/Object Data Types
-* **String** - **text** values
-  * **ALWAYS** starts with a **CAPITOL** "S".
-  * **ALWAYS** uses **DOUBLE** quotes **(")**
+ * **String** - **text** values
+   * **ALWAYS** starts with a **CAPITOL** "S".
+   * **ALWAYS** uses **DOUBLE** quotes **(")**
 [String Examples]: string.png
-* **class** - as a variable should always start with a **LOWERCASE** letter, while in its declaration it should always have an **UPPERCASE**.
+ * **class** - as a variable should always start with a **LOWERCASE** letter, while in its declaration it should always have an **UPPERCASE**.
 
-### **Strongly** vs. **Loosely** Typed Languages
- * In **Strongly Typed Languages (Java)** once a variable is defined as a data type, it cannot be used to store another data type.
- * **Loosely Typed Languages (Javascript)** allows different types of data in the same variable (but not at the same time!)
+### Strongly & Loosely Typed Languages
+   * In **Strongly Typed Languages (Java)** once a variable is defined as a data type, it cannot be used to store another data type.
+   * **Loosely Typed Languages (Javascript)** allows different types of data in the same variable (but not at the same time!)
 
-### **Scope**
- * How far a varable can reach
- * Defined by the **curly brackets {}**
+### Scope
+   * How far a varable can reach
+   * Defined by the **curly brackets {}**
  
 ## Math & Operators
 ### **Arithmetic Operators** - Used operators for basic math
@@ -65,7 +65,37 @@
   * **||** : Or
   * **!** : Not
   
-   
+## Conditional (Control Flow) Statements
+### If Statement
+  * The **if** statement checks if something is **true** or **false**.
+  * The result of the if will either run a piece of code, or will skip past it to the else code.
+  * We can use **relational, logical & conditional operators** to compare values with in these conditions. 
+  * Here is the syntax of a conditional statement using **if**:
+  ```java
+  if (condition1){
+    statements that are to be executed if condition1 is satisfied
+  }else{
+    statements that are to be executed if condition1 is not satisfied
+  } 
+  ```
+### Else If
+  * There can be multiple conditions within an **if** statement, these use **else if** and use this syntax:
+  ```java
+  if (condition1){
+    statements that are to be executed if condition1 is satisfied
+  } else if(condition2){
+    statements that are to be executed if condition2 is satisfied and condition1 is not satisfied
+  } else if(condition3){
+    statements that are to be executed if condition3 is satisfied and condition1 and condition2 are not satisfied
+  }else {
+    statements that are to be executed if none of the above conditions are true
+  } 
+  ```
+  * The conditions will be checked in the same order the are written in. 
+  * There can be as many conditions as you would like to code. 
+  * The computer will only reach the else statement if non of the other conditions listed are met. 
+  
+
    
 
 
