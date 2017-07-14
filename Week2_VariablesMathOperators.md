@@ -95,9 +95,29 @@
   * There can be as many conditions as you would like to code. 
   * The computer will only reach the else statement if non of the other conditions listed are met. 
   
+### Switch
+  * Can sometimes be used as an alternative to **if**.
+  * It evaluates the keyword after **switch** and the program only follows on if the cases.
+  * The keyword **break** is used at the end of each case statement to make the code jump out of the switch, if you do not do this, the program will just continue to read through.
+  * Here is a sample of its syntax:
+  ```java
+  switch (yourGrade){
 
-   
-
+   case 'A':
+     System.out.println("Excellent Job!");
+     break;
+   case 'B':
+     System.out.println("Good Job!");
+     break;
+   case 'C':
+     System.out.println("Need to work more!");
+     break;
+   case 'D':
+     System.out.println("Change your attitude!");
+   break;
+ }
+ ```
+ 
 
 
 
