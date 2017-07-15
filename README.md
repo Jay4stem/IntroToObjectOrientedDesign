@@ -19,15 +19,15 @@
 - Vocabulary:
 - Keywords:
 
-### July 15:  Math, Operators & Conditionals
+### [July 15:  Math, Operators & Conditionals](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week2_VariablesMathOperators.md) 
 - Review Variables
 - Operators
-- Conditionals
 - Vocabulary: Variable, Primitive Data Type, Reference/Object Data Type, Integer, Floating Number, Boolean, Strongly Typed Language, Loosely Typed Language, Scope, Arithmetic Operators, Relational Operators, Logical Operators
 - Keywords: byte, short, int, long, float, double, Boolean, char, String, +, -, * , /, =, %, ++, --, >, <, !=, ==, <=, >=, &&, ||,  !   
 
 ### July 22:  Control Flow Statements 
-- Review Conditionals
+- Review Operators
+- Conditionals
 - Switch
 - For
 - Vocabulary:
