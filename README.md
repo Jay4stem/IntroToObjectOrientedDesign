@@ -25,15 +25,15 @@
 - Vocabulary: Variable, Primitive Data Type, Reference/Object Data Type, Integer, Floating Number, Boolean, Strongly Typed Language, Loosely Typed Language, Scope, Arithmetic Operators, Relational Operators, Logical Operators
 - Keywords: byte, short, int, long, float, double, Boolean, char, String, +, -, * , /, =, %, ++, --, >, <, !=, ==, <=, >=, &&, ||,  !   
 
-### July 22:  Control Flow Statements 
+### [July 22:  Control Flow Statements](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week3_Conditionals.md)
 - Review Operators
 - Conditionals
 - Switch
-- For
 - Vocabulary:
 - Keywords:
 
 ### July 29:  Control Flow & Methods
+- For
 - While/Do While
 - Parameters
 - Access Modifiers
