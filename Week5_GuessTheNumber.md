@@ -1,5 +1,5 @@
 # Week 3: Guess The Number
-Building a program that will ask the user to guess a number between 1 and 100. When the user guesses, the program will tell the user if it is too high, low, or correct. 
+Building a **command-line** (text only) program that will ask the user to guess a number between 1 and 100. When the user guesses, the program will tell the user if it is too high, low, or correct. 
 
 ![Guess The Number](https://openresty.org/download/image/guess.png)
 
@@ -12,7 +12,6 @@ Building a program that will ask the user to guess a number between 1 and 100. W
 * Prompt the user to guess another number until they match.
 * Ask the user if they’d like to play again.
 
-* Because this game will be text-based it is called a **command-line** program.
 
 ## Generating A Random Number
 * Before we can generate a random number, first we need to create a variable to store the value in. 
@@ -56,7 +55,11 @@ Building a program that will ask the user to guess a number between 1 and 100. W
 
 ![user input result](https://openresty.org/download/image/inputResult.png)
 
-
+## Using Loops To Ask,Check & Repeat
+* **Loops** give us the ability to repeat actions multiple times without writing large amounts of repeatitive code.
+* **While** loops repeat a set of commmands as long as the condition is true.
+* A **condition** is just something that can be tested. For example, is the number that the user guessed the same as the number that was randomly generated. 
+* In this case, if the numbers do not match the user should be able to continue guessing, and the loop should continue repeating. If the user's guess is correct the game should stop. 
 
 
 ## Vocabulary
