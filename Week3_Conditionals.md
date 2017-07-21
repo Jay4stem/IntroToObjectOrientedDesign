@@ -85,14 +85,14 @@ Building a **command-line** (text only) program that will ask the user to guess 
 * **(int)** is added before our random function to **cast** , or change, the decimal number as an integer. 
 * This statement should read as the following:
 
-![math.random()](https://openresty.org/download/image/mathRandom.png)
+![math.random()](https://raw.githubusercontent.com/compagnb/IntroToObjectOrientedProgramming-Java/master/imgs/mathRandom.png)
 
 * Add a **println** to ensure your number generator is running correctly. This program should print out a different number each time it is run. 
 
-![math.random() result](https://openresty.org/download/image/mathRandomResult.png)
+![math.random() result](https://raw.githubusercontent.com/compagnb/IntroToObjectOrientedProgramming-Java/master/imgs/mathRandomResult.png)
 
 * Here are some other useful methods of the **Math** class:
 
-![Math Methods](https://openresty.org/download/image/mathMethods.jpg)
+![Math Methods](https://raw.githubusercontent.com/compagnb/IntroToObjectOrientedProgramming-Java/master/imgs/mathMethods.jpg)
 
  
