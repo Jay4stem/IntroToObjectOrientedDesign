@@ -22,15 +22,17 @@
 ### [July 15:  Math, Operators & Conditionals](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week2_VariablesMathOperators.md) 
 - Review Variables
 - Operators
-- Vocabulary: Variable, Primitive Data Type, Reference/Object Data Type, Integer, Floating Number, Boolean, Strongly Typed Language, Loosely Typed Language, Scope, Arithmetic Operators, Relational Operators, Logical Operators
-- Keywords: byte, short, int, long, float, double, Boolean, char, String, +, -, * , /, =, %, ++, --, >, <, !=, ==, <=, >=, &&, ||,  !   
+- **Vocabulary:** Variable, Primitive Data Type, Reference/Object Data Type, Integer, Floating Number, Boolean, Strongly Typed Language, Loosely Typed Language, Scope, Arithmetic Operators
+- **Keywords:** byte, short, int, long, float, double, Boolean, char, String, +, -, * , /, =, %, ++, --, >, <, !=, ==, <=, >=, &&, ||,  !   
 
-### [July 22:  Control Flow Statements](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week3_Conditionals.md)
+### [July 22:  Conditional Statements](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week3_Conditionals.md)
 - Review Operators
 - Conditionals
 - Switch
-- Vocabulary:
-- Keywords:
+- Math Package Methods
+- Casting
+- **Vocabulary:** Relational Operators, Logical Operators, Casting
+- **Keywords:** if, else, elseif, switch, break
 
 ### July 29:  Control Flow & Methods
 - For
@@ -38,14 +40,13 @@
 - Parameters
 - Access Modifiers
 - Constructors
-- Vocabulary:
-- Keywords:
+- **Vocabulary:**
+- **Keywords:** for, while, do, break
 
 ### August 8:  Classes & Objects
 - Inheritance
 - Interfaces
 - Abstract Classes
-- Casting
 - This
 - Vocabulary:
 - Keywords:
