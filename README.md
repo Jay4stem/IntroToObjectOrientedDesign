@@ -31,8 +31,8 @@
 - Switch
 - Math Package Methods
 - Casting
-- **Vocabulary:** Relational Operators, Logical Operators, Casting
-- **Keywords:** if, else, elseif, switch, break
+- **Vocabulary:** Relational Operators, Logical Operators, Cast, Command-Line
+- **Keywords:** if, else, elseif, switch, break, Math, random()
 
 ### July 29:  Control Flow & Methods
 - For
