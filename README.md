@@ -39,7 +39,7 @@
 - **Vocabulary:** Relational Operators, Logical Operators, Cast, Command-Line
 - **Keywords:** if, else, elseif, switch, break, Math, random()
 
-### [July 29: Arrays & More Control Flow](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week4_Control Flow Statements (Loops).md)
+### [July 29: Arrays & More Control Flow](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week4_ArraysControlFlowStatements.md)
 - Arrays
 - For
 - While
