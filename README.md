@@ -50,14 +50,10 @@
 - **Vocabulary:** array, index, one-dimensional array, multi-dimensional array, loops, loop control statements, break, continue,
 - **Keywords:** length, for, while, do, break, continue
 
-### August 8:  Classes & Objects
-- Inheritance
-- Interfaces
-- Abstract Classes
-- This
+### August 8:  Methods
 - Vocabulary:
 - Keywords:
 
-### August 12:  GUI With JavaFX
+### August 12:  Classes & Objects
 - Vocabulary:
 - Keywords:
