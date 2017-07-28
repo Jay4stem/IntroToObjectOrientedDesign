@@ -20,6 +20,9 @@
 ```java
   players[1] = "Daniel";
 ```
+
+![index](https://raw.githubusercontent.com/compagnb/IntroToObjectOrientedProgramming-Java/master/imgs/index.png)
+
 * All arrays have an attribute called **length**, Like other languages, such as python, this will return the amount of items in the array.
 ```java
   int totalPlayers = players.length;
@@ -34,6 +37,7 @@
 		System.out.println("Congratulations, " + theWinner + "!");
 ```
 * These arrays are considered **one-dimensional**. This simply means they are essentially a list of variables. There are also **multi-diensonal** arrays that are more complex.
+
 
 ## Storing User Input
 * To accept keyboard input from the user, additional Java capabilities from a **utilities** package. 
@@ -60,6 +64,7 @@
 ```
 * Add a **println** to ensure your the program is running correctly. This program should print out the same number that the user input. 
 
+
 ## Loops
 * **Loops** are statements that execute a statement or group of statements multiple times.
 * There are three types of loops:
@@ -69,7 +74,9 @@
 * Statements that can change the sequence of the loop, are known as **loop control statements**. These statements are:
   * The **break** statement will terminate the loop or (just like the switch statement).  It will break out of the loop and run the code immediately following the loop (or switch).
   * The **continue** statement will cause the loop to skip the remainder of its body. It will retest the condition prior before re-running the code.
+  
 ![loops](https://raw.githubusercontent.com/compagnb/IntroToObjectOrientedProgramming-Java/master/imgs/loops.png)
+
 
 ## For Loops
 * A **for** loop iterates over a range of values.
@@ -115,6 +122,7 @@
    }
 ```
 
+
 ## While
 * The **while** statement will continually run its contents as long as it's condition is true.
 * The syntax of a while loop is as follows:
@@ -144,6 +152,7 @@
    }
 ```
 
+
 ## Do While
 * The **Do/While** loop is expressed like this:
 ```java
@@ -166,6 +175,7 @@
    }
 ```
 
+
 ## In Class Assignment
 * Using the scanner class, build into our guessing game a feature that will store user input.
 * Using loops, build in a feature where the user is asked again until they guess correctly. 
@@ -182,6 +192,7 @@
 * loop control statements
 * break
 * continue
+
 
 ## Keywords
 * length
