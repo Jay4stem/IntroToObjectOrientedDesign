@@ -1,6 +1,6 @@
 ## Arrays & More Control Flow
 
-![arrays](https://raw.githubusercontent.com/compagnb/IntroToObjectOrientedProgramming-Java/master/imgs/arrays.png)
+![array](https://raw.githubusercontent.com/compagnb/IntroToObjectOrientedProgramming-Java/master/imgs/array.png)
 
 ## Arrays
 * **Arrays** are objects that hold multiple values of the same data type.
