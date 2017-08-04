@@ -1,5 +1,5 @@
 /**
- * Week 2: If Else Conditions
+ * Week 3: If Else Conditions
  */
 
 // here is our class called "Conditions" it is able to be run by other programs and jre

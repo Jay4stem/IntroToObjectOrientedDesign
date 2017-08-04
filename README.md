@@ -39,21 +39,21 @@
 - **Vocabulary:** Relational Operators, Logical Operators, Cast, Command-Line
 - **Keywords:** if, else, elseif, switch, break, Math, random()
 
-### [July 29: Arrays & More Control Flow](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week4_ArraysControlFlowStatements.md)
-- Arrays
-- User Input
-- For
+### [July 29: Arrays & Control Flow Statements](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week4_ArraysControlFlowStatements.md)
 - While
 - Do While
 - **Example Code:**
-- **In-Class Assignment:** Using the scanner class, build into our guessing game a feature that will store user input. Then using loops, build in a feature where the user is asked again until they guess correctly. Once guessed correctly have the user given the option to play again. (Thing about loops here too!) **Advanced:**  Using arrays, respond to the user’s input with warmer or cooler (using their last guess as a point to compare from.
+- **In-Class Assignment:**
 - **Vocabulary:** array, index, one-dimensional array, multi-dimensional array, loops, loop control statements, break, continue,
 - **Keywords:** length, for, while, do, break, continue
 
-### August 8:  Methods
-- Vocabulary:
-- Keywords:
+### [July 29: For & Methods](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week5_ForLoopsMethods.md)
+- For
+- **Example Code:**
+- **In-Class Assignment:**
+- **Vocabulary:** array, index, one-dimensional array, multi-dimensional array, loops, loop control statements, break, continue,
+- **Keywords:** length, for, while, do, break, continue
 
-### August 12:  Classes & Objects
+### August 12:  GUI With JavaFX
 - Vocabulary:
 - Keywords:

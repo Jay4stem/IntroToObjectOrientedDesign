@@ -1,8 +1,8 @@
-## Arrays & More Control Flow
+## Arrays & Control Flow Statements
 
 ![array](https://raw.githubusercontent.com/compagnb/IntroToObjectOrientedProgramming-Java/master/imgs/array.png)
 
-## Arrays
+## Advanced: Arrays
 * **Arrays** are objects that hold multiple values of the same data type.
 * Arrays are marked by placing **square brackets** after the variable name, or data type like this:
 ```java
@@ -34,35 +34,35 @@
 * Similar to assigning the items in the array individually, they can also be used in code using the index number.
 ```java
   String theWinner = players[1];
-		System.out.println("Congratulations, " + theWinner + "!");
+      System.out.println("Congratulations, " + theWinner + "!");
 ```
 * These arrays are considered **one-dimensional**. This simply means they are essentially a list of variables. There are also **multi-diensonal** arrays that are more complex.
 
 
 ## Storing User Input
-* To accept keyboard input from the user, additional Java capabilities from a **utilities** package. 
-* **Libraries** and **packages** are sets of code that someone else has created. To use these capabilities the packages need to be **imported**. 
+* To accept keyboard input from the user, additional Java capabilities from a **utilities** package.
+* **Libraries** and **packages** are sets of code that someone else has created. To use these capabilities the packages need to be **imported**.
 * The class **Scanner** that is part of the **java.util** utilities package, provides several useful functions for working with keyboard input.
 * To import the **Scanner** class within this utility package, use the following line of code:
 ```java
   import java.util.Scanner;
 ```
-* This line of code gets added before we do anything else, even before we define our class. This is so that the computer imports this package before looking for anything else within the program. 
+* This line of code gets added before we do anything else, even before we define our class. This is so that the computer imports this package before looking for anything else within the program.
 * In order to use the methods in this class for input first we need to store an **instance (object)** of the class in a variable that pulls input from the keyboard,**System.in** like this:
 ```java
-  Scanner scan = new Scanner(System.in); 
+  Scanner scan = new Scanner(System.in);
 ```
-* Once an instance is created, methods within the class can be called. 
+* Once an instance is created, methods within the class can be called.
 * **nextLine()** will accept the next line of string data input from the keyboard
-* **nextInt()** will accept the next line of string data and turn the text input from the keyboard into an integer number 
-* To store this data as a variable first, it needs to be **declared** as an **int**. This variable can be set as equal to 0. 
+* **nextInt()** will accept the next line of string data and turn the text input from the keyboard into an integer number
+* To store this data as a variable first, it needs to be **declared** as an **int**. This variable can be set as equal to 0.
 * Then a message need to be displayed to prompt the user to "guess" a number between 1 and 100. We do this by using the same **println()** method from the **System** class that was used in HelloWorld.
 * Now that the user knows what kind of input the program is expecting from them, the keyboard needs to be checked for input. To do this we call the **nextInt()** method of our Scanner instance by using **dot notation** and store it in the variable created for user input, like this:
 ```java
-  System.out.println("Guess a number between 1 and 100:"); 
+  System.out.println("Guess a number between 1 and 100:");
   guess = scan.nextInt();
 ```
-* Add a **println** to ensure your the program is running correctly. This program should print out the same number that the user input. 
+* Add a **println** to ensure your the program is running correctly. This program should print out the same number that the user input.
 
 
 ## Loops
@@ -74,54 +74,8 @@
 * Statements that can change the sequence of the loop, are known as **loop control statements**. These statements are:
   * The **break** statement will terminate the loop or (just like the switch statement).  It will break out of the loop and run the code immediately following the loop (or switch).
   * The **continue** statement will cause the loop to skip the remainder of its body. It will retest the condition prior before re-running the code.
-  
+
 ![loops](https://raw.githubusercontent.com/compagnb/IntroToObjectOrientedProgramming-Java/master/imgs/loops.png)
-
-
-## For Loops
-* A **for** loop iterates over a range of values.
-* The syntax of a for loop is as follows:
-```java
-   for (initialization; termination; increment) {
-      statement(s)
-   }
-```
-   * **initialization** initializes the loop. It is only executed once, when the loop begins.
-   * **termination** sets the limit for the loop to end.
-   * **increment** adds to the value after each time through the loop (or iteration). It can also be a decrement.
-* The variable that controls a for statement (i) should be declared within the initialization expression, when able to limit their life span and reduce errors. Usually these variables take the names i, j, and k.
-* Below is an example of how to count to 10 using a for loop:
-```java
-   class ForCount {
-      public static void main(String[] args){
-         for(int i=1; i<11; i++){
-            System.out.println("Count is: " + i);
-         }
-      }
-   }
-
-```
-* Three expressions are optional. To create an **infinite loop** use the following:
-```java
-// infinite loop
-   for ( ; ; ) {
-      // your code goes here
-   }
-```
-* **For** Loops are great for executing actions for each item in an **arrays** or collections. This is sometimes referred to as an **enhanced for loop** or a **for each**.
-* Below is an example of using an enhanced for loop to count to 10:
-```java
-   class EnhancedForCount {
-      public static void main(String[] args){
-         int[] numbers =
-             {1,2,3,4,5,6,7,8,9,10};
-         for (int item : numbers) {
-             System.out.println("Count is: " + item);
-         }
-      }
-   }
-```
-
 
 ## While
 * The **while** statement will continually run its contents as long as it's condition is true.
@@ -152,7 +106,6 @@
    }
 ```
 
-
 ## Do While
 * The **Do/While** loop is expressed like this:
 ```java
@@ -178,7 +131,7 @@
 
 ## In Class Assignment
 * Using the scanner class, build into our guessing game a feature that will store user input.
-* Using loops, build in a feature where the user is asked again until they guess correctly. 
+* Using loops, build in a feature where the user is asked again until they guess correctly.
 * Once guessed correctly have the user given the option to play again. (Thing about loops here too!)
 * **Advanced:**  Using arrays, respond to the user’s input with warmer or cooler (using their last guess as a point to compare from.
 
