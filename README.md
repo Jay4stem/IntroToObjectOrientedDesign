@@ -1,4 +1,4 @@
-# Intro To Object Oriented Programming - Java
+# 5 Session - Intro To Object Oriented Programming - Java
 
 ## Course Description:
 
@@ -11,7 +11,7 @@
 6. GUI*
 
 ## Course Breakdown:
-### July 8:  Introduction & Syntax
+### Day 1:  Introduction & Syntax
 - Main Steps In Java
 - Using The Command Line
 - IDE's & IntelliJ
@@ -19,7 +19,7 @@
 - Vocabulary:
 - Keywords:
 
-### [July 15: Math, Operators & Conditionals](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week2_VariablesMathOperators.md)
+### [Day 2: Math, Operators & Conditionals](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week2_VariablesMathOperators.md)
 - Review Variables
 - Operators
 - **Example Code:**
@@ -27,7 +27,7 @@
 - **Vocabulary:** Variable, Primitive Data Type, Reference/Object Data Type, Integer, Floating Number, Boolean, Strongly Typed Language, Loosely Typed Language, Scope, Arithmetic Operators
 - **Keywords:** byte, short, int, long, float, double, Boolean, char, String, +, -, * , /, =, %, ++, --, >, <, !=, ==, <=, >=, &&, ||,  !
 
-### [July 22: Conditional/Control-Flow Statements](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week3_Conditionals.md)
+### [Day 3: Conditional/Control-Flow Statements](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week3_Conditionals.md)
 - Review Operators
 - Conditionals
 - Switch
@@ -39,7 +39,7 @@
 - **Vocabulary:** Relational Operators, Logical Operators, Cast, Command-Line
 - **Keywords:** if, else, elseif, switch, break, Math, random()
 
-### [July 29: Arrays & Control Flow Statements](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week4_ArraysControlFlowStatements.md)
+### [Day 4: Arrays & Control Flow Statements](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week4_ArraysControlFlowStatements.md)
 - While
 - Do While
 - **Example Code:**
@@ -47,13 +47,13 @@
 - **Vocabulary:** array, index, one-dimensional array, multi-dimensional array, loops, loop control statements, break, continue,
 - **Keywords:** length, for, while, do, break, continue
 
-### [July 29: For & Methods](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week5_ForLoopsMethods.md)
+### [Day 5: For & Methods](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week5_ForLoopsMethods.md)
 - For
 - **Example Code:**
 - **In-Class Assignment:**
 - **Vocabulary:** array, index, one-dimensional array, multi-dimensional array, loops, loop control statements, break, continue,
 - **Keywords:** length, for, while, do, break, continue
 
-### August 12:  GUI With JavaFX
+### Day 6:  GUI With JavaFX
 - Vocabulary:
 - Keywords:
