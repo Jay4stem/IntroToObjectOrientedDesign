@@ -13,8 +13,8 @@
 ## Week 5:
 
 
-### [Day 5: Arrays/Methods](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week3_Conditionals.md)
-- Review Control Flow Statements; For; While looping
+### [Day 5: Arrays/Methods]
+- Review Control Flow Statements; For; While looping(https://github.com/Jay4stem/IntroToObjectOrientedDesign/blob/master/Week5/ReadMe/Review.md)
 - Arrays/Multi-Dimensional Arrays
 - Math Package Methods (Introduction to Class)
 - Generating Random Numbers (Introduction to Class and Objects) 
