@@ -29,7 +29,7 @@ public static int calculateSum(int first,int second){
    * The return value is followed by the method name. Make sure to use camalCase if needed.
    * Finally inside the parenthesis are the parameters, or variables, we will be using within the method. This allows us to pass the variables through the method without declaring them inside it.
 
-## Arrays & Control Flow Statements
+## Arrays
 
 ![array](https://raw.githubusercontent.com/compagnb/IntroToObjectOrientedProgramming-Java/master/imgs/array.png)
 
