@@ -15,8 +15,8 @@
 
 ### [Day 5: Arrays/Methods](https://github.com/Jay4stem/IntroToObjectOrientedDesign/blob/master/Week5/ReadMe/Arrays_Notes.md)
 - [Review Control Flow Statements; For; While looping](https://github.com/Jay4stem/IntroToObjectOrientedDesign/blob/master/Week5/ReadMe/Review.md)
+- [Methods: Math Package Methods (Introduction to Classes)](https://github.com/Jay4stem/IntroToObjectOrientedDesign/blob/master/Week5/ReadMe/Arrays_Notes.md#methods)
 - [Arrays/Multi-Dimensional Arrays](https://github.com/Jay4stem/IntroToObjectOrientedDesign/blob/master/Week5/ReadMe/Arrays_Notes.md#arrays)
-- Methods: Math Package Methods (Introduction to Classes)(https://github.com/Jay4stem/IntroToObjectOrientedDesign/blob/master/Week5/ReadMe/Arrays_Notes.md#methods)
 - Generating Random Numbers (Introduction to Class and Objects) 
 - Casting
 - **Example Code:** [Simple use of Math.Random()]
