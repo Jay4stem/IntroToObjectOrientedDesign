@@ -19,7 +19,7 @@
 - [Arrays/Multi-Dimensional Arrays](https://github.com/Jay4stem/IntroToObjectOrientedDesign/blob/master/Week5/ReadMe/Arrays_Notes.md#arrays)
 - Generating Random Numbers (Introduction to Class and Objects) 
 - Casting
-- **Example Code:** [Simple use of Math.Random()]
-- **In-Class Assignment:** Build out the random number generated using Java's Math class.
+- **Example Code:** See Array_Notes.md for example links in the notes (blue font). 
+- **In-Class Assignment:** Build out the random number generated using Java's Math class. (See Array_Notes.md)
 - **Vocabulary:** array, index, one-dimensional array, multi-dimensional array
 - **Keywords:** if, else, elseif, switch, break, Math, random(), for, while
