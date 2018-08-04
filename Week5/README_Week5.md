@@ -14,9 +14,10 @@
 
 
 ### [Day 5: Arrays/Methods](https://github.com/compagnb/IntroToObjectOrientedProgramming-Java/blob/master/Week3_Conditionals.md)
-- Review Control Flow Statements; For; While looping  
-- Math Package Methods
-- Generating Random Numbers (Introduction to Class and objects)
+- Review Control Flow Statements; For; While looping
+- Arrays/Multi-Dimensional Arrays
+- Math Package Methods (Introduction to Class)
+- Generating Random Numbers (Introduction to Class and Objects) 
 - Casting
 - **Example Code:**
 - **In-Class Assignment:** Build out the random number generated using Java's Math class.
