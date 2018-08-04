@@ -1,4 +1,4 @@
-import java.util.Scanner; // import the Scanner Object from the utility package.
+import java.util.Scanner; //   import the Scanner Object from the utility package.
 
 // here is our class called "HighLow" it is able to be run by other programs and jre
 public class HighLow {
