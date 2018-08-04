@@ -96,7 +96,7 @@ public static int calculateSum(int first,int second){
 * Add a **println** to ensure your the program is running correctly. This program should print out the same number that the user input.
 
 ## Generating A Random Number
-* [Simple example to start off]
+* [Simple example to start off](https://github.com/Jay4stem/IntroToObjectOrientedDesign/blob/master/Week5/Simple_Random.java)
 * Before we can generate a random number, first we need to create a variable to store the value in. 
 * The number we want to generate will be a **whole number** between 1 and 100, this variable should be declared as an **int**.
 * To generate a random number it requires the use of the **Math** class that is built into Java.
