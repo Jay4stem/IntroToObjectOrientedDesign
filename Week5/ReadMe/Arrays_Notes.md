@@ -87,3 +87,5 @@
 * Using loops, build in a feature where the user is asked again until they guess correctly.
 * Once guessed correctly have the user given the option to play again. (Thing about loops here too!)
 * **Advanced:**  Using arrays, respond to the user’s input with warmer or cooler (using their last guess as a point to compare from.
+
+##[Complete Random Code](https://github.com/Jay4stem/IntroToObjectOrientedDesign/blob/master/Week5/HighLow.java)
