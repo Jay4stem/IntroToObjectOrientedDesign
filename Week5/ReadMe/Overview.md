@@ -16,10 +16,10 @@
 ### [Day 5: Arrays/Methods](https://github.com/Jay4stem/IntroToObjectOrientedDesign/blob/master/Week5/ReadMe/Arrays_Notes.md)
 - [Review Control Flow Statements; For; While looping](https://github.com/Jay4stem/IntroToObjectOrientedDesign/blob/master/Week5/ReadMe/Review.md)
 - [Arrays/Multi-Dimensional Arrays](https://github.com/Jay4stem/IntroToObjectOrientedDesign/blob/master/Week5/ReadMe/Arrays_Notes.md)
-- Math Package Methods (Introduction to Classes)
+- Methods: Math Package Methods (Introduction to Classes)
 - Generating Random Numbers (Introduction to Class and Objects) 
 - Casting
-- **Example Code:**
+- **Example Code:** [Simple use of Math.Random()]
 - **In-Class Assignment:** Build out the random number generated using Java's Math class.
 - **Vocabulary:** array, index, one-dimensional array, multi-dimensional array
 - **Keywords:** if, else, elseif, switch, break, Math, random(), for, while
