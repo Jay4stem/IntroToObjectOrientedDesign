@@ -1,5 +1,5 @@
-// Java program to demonstrate working of 
-// Math.random() to generate random numbers
+// Java program to demonstrate working of Math.random() to generate random numbers.
+
 import java.util.*;
  
 public class generateRandom
